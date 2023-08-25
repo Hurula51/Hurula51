@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hurulagamer51@gmail.com**
 
-- 📄 Know about my experiences [hurula51 on d](hurula51 on d)
+- 📄 Know about my experiences **hurula51 on Discord**
 
 - ⚡ Fun fact **I'm Spanish**
 
