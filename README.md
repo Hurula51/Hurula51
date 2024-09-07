@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hurula51</h1>
 <h3 align="center">A student of development on FiveM and other platforms</h3>
 
-- 🔭 I’m currently working on [Glados Company](https://glco.billgang.store/)
+- 🔭 I’m currently working on [GL CO.](https://glco.billgang.store/)
 
 - 🌱 I’m currently learning **Lua, HTML, JavaScript and SQL**
 
-- 🤝 I’m looking for help with [Glados Roleplay](https://roleplay.glcorp.ovh/)
+- 🤝 I’m looking for help with [LS Memories](https://roleplay.glcorp.ovh/)
 
 - 👨‍💻 Some of my projects are available at [https://www.youtube.com/@glcorp](https://www.youtube.com/@glcorp)
 
