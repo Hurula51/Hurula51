@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **FiveM, Discord and Windows**
 
-- 📫 How to reach me **hurulagamer51@gmail.com**
+- 📫 How to reach me **hurula51 on Discord**
 
 - 📄 Know about my experiences **hurula51 on Discord**
 
